@@ -7,5 +7,5 @@ https://9877.kstore.space/AnotherDS/api.json
 
 # 软件下载地址：
 https://drive.uc.cn/s/ba531661b3eb4
-https://pan.quark.cn/s/1897ec081f0a
-https://pan.baidu.com/s/15ZC1vhazqo_HCBO0yksdOQ?pwd=1314
+https://pan.quark.cn/s/d47f4bd313dd
+https://pan.baidu.com/s/1QXMdA_7cWTCLWR1RB_zVaA?pwd=1314
